@@ -73,3 +73,4 @@ spatial-distribution-17
 the-spatial-distribution-of-these-cases-at-subcounty-level-is-as-shown
 cholera-hotspots-identified
 fig:unnamed-chunk-8
+about
